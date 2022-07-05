@@ -1,2 +1,2 @@
-# Pr--Processamento
+# Pre-Processamento
 Estudo sobre pré processamento no python, aonde estudei algumas possibilidades de tratamento de valores inconsistente e valores faltantes, também renomear colunas e aplicação do LabelEncoder, com o objetivo de transformar valores categorias em valores numéricos e, por último, utilizamos a ideia de escalonamento de valores para coloca-los todos na mesma escala, facilitando a leitura da máquina.
